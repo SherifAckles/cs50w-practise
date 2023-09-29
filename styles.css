@@ -1,0 +1,13 @@
+#container{
+display: flex;
+flex-wrap: wrap;
+text-align: center;
+
+}
+
+#container > div{
+    background-color: rgb(223, 132, 22);
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px;
+}
